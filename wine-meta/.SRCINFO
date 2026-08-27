@@ -1,7 +1,7 @@
 pkgbase = wine-meta
 	pkgdesc = Meta-package for WINE support
 	pkgver = 2
-	pkgrel = 1
+	pkgrel = 2
 	url = https://wiki.archlinux.org/index.php/wine
 	arch = any
 	license = GPL
