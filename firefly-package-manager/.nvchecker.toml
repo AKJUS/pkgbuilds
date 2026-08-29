@@ -1,0 +1,4 @@
+[firefly-package-manager]
+source = "gitlab"
+gitlab = "garuda-linux/applications/firefly"
+use_max_tag = true

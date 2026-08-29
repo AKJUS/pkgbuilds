@@ -1,0 +1,4 @@
+[garuda-network-assistant]
+source = "gitlab"
+gitlab = "garuda-linux/applications/garuda-network-assistant"
+use_max_tag = true

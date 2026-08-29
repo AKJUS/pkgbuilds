@@ -1,0 +1,4 @@
+[garuda-i3-settings]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/settings/garuda-i3-settings"
+use_max_tag = true

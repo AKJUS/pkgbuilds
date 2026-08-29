@@ -1,0 +1,4 @@
+[garuda-browser-settings]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/settings/garuda-browser-settings"
+use_max_tag = true

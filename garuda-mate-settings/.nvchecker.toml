@@ -1,0 +1,4 @@
+[garuda-mate-settings]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/settings/garuda-mate-settings"
+use_max_tag = true

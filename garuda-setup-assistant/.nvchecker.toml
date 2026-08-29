@@ -1,0 +1,4 @@
+[garuda-setup-assistant]
+source = "gitlab"
+gitlab = "garuda-linux/applications/garuda-setup-assistant"
+use_max_tag = true

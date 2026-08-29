@@ -1,0 +1,4 @@
+[garuda-welcome]
+source = "gitlab"
+gitlab = "garuda-linux/applications/garuda-welcome"
+use_max_tag = true

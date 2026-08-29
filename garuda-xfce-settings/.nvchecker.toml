@@ -1,0 +1,4 @@
+[garuda-xfce-settings]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/settings/garuda-xfce-settings"
+use_max_tag = true

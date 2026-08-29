@@ -1,0 +1,4 @@
+[garuda-system-maintenance]
+source = "gitlab"
+gitlab = "garuda-linux/applications/garuda-system-maintenance"
+use_max_tag = true

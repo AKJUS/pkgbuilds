@@ -1,0 +1,4 @@
+[powersave-tweaks]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/settings/powersave-tweaks"
+use_max_tag = true

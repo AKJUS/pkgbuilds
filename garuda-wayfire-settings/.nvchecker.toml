@@ -1,0 +1,4 @@
+[garuda-wayfire-settings]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/settings/garuda-wayfire-settings"
+use_max_tag = true
