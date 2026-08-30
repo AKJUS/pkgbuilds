@@ -1,7 +1,3 @@
 /src/
 /pkg/
-/firedragon/
-*.tar.zst
-*.tar.xz
-*.desktop
-*.metainfo.xml
+*.tar.*
