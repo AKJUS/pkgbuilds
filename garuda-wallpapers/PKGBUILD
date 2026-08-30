@@ -10,7 +10,7 @@ url="https://gitlab.com/garuda-linux/themes-and-settings/artwork/$pkgname"
 license=('GPLv3')
 
 source=("https://gitlab.com/garuda-linux/themes-and-settings/artwork/garuda-wallpapers/-/archive/${_commit}/garuda-wallpapers-${_commit}.tar.gz")
-sha256sums=('SKIP')
+sha256sums=('484af3ea588f7b642ac0fef910de6c2980ed6ca6ca8c58fb5d0db9f71e80c030')
 
 package() {
   cd "${pkgname}-$_commit" || exit
