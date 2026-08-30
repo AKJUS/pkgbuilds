@@ -1,0 +1,4 @@
+[plymouth-theme-mokka]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/artwork/plymouth-theme-mokka"
+use_max_tag = true

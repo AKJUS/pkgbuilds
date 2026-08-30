@@ -1,0 +1,4 @@
+[garuda-live]
+source = "gitlab"
+gitlab = "garuda-linux/tools/garuda-tools-livecd"
+use_max_tag = true

@@ -1,0 +1,4 @@
+[grub-theme-garuda]
+source = "gitlab"
+gitlab = "garuda-linux/themes-and-settings/artwork/grub-theme-garuda"
+use_max_tag = true
