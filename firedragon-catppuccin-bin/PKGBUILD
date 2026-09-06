@@ -1,7 +1,7 @@
 # Maintainer: Stefan Wimmer <info@stefanwimmer128.xyz>
 
 _pkgname=firedragon
-_pkgver=13.5.0
+_pkgver=13.5.1
 _branding=catppuccin
 
 __pkgname=$_pkgname-catppuccin
@@ -61,9 +61,9 @@ noextract=($__pkgname-v$_pkgver.linux-x64.tar.xz
 source=($_pkgname::git+$url.git#tag=v$_pkgver)
 source_x86_64=($__pkgname-v$_pkgver.linux-x64.tar.xz::$url/-/releases/v$_pkgver/downloads/$__pkgname.linux-x64.tar.xz)
 source_aarch64=($__pkgname-v$_pkgver.linux-arm64.tar.xz::$url/-/releases/v$_pkgver/downloads/$__pkgname.linux-arm64.tar.xz)
-sha256sums=('b7c95ded5c3ca05754332b6145a7e718dc50c5a6ac0be7a1971fc83528749d9a')
-sha256sums_x86_64=('c6a34640123bef00b63f4c4cce9114ce9122d3ad0a049b682c2c8b4c32a20f3c')
-sha256sums_aarch64=('bf07cc555b6edbdf9a115de639acafd7eefb7c09734ec611bf210158a17b4a6c')
+sha256sums=('6fe0bdbe747764e72d55c10a687131fae6ddcd5e17fe193d533249cbd7ac65d5')
+sha256sums_x86_64=('43fc417d418005b3916149c846a72940f541cfed624483c35af28b1de1c6bf60')
+sha256sums_aarch64=('b880f9ef282a082c94f62d017511896470b4570dd5e49847cc337b70e7e42700')
 
 package() {
   mkdir -p "$pkgdir/usr/lib"
